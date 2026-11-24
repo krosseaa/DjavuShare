@@ -1,0 +1,10 @@
+{
+  "description": "Platform internal bagi karyawan untuk berbagi pengetahuan, mengajukan ide inovatif, berkolaborasi, dan mendapat apresiasi atas kontribusi mereka.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
